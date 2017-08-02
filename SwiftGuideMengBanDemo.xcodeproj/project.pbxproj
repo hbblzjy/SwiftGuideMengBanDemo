@@ -7,14 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E83DE6251F31C6E40011A3A4 /* guide_1_iphone4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE61D1F31C6E40011A3A4 /* guide_1_iphone4@2x.png */; };
+		E83DE6261F31C6E40011A3A4 /* guide_1_iphone5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE61E1F31C6E40011A3A4 /* guide_1_iphone5@2x.png */; };
+		E83DE6271F31C6E40011A3A4 /* guide_1_iphone6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE61F1F31C6E40011A3A4 /* guide_1_iphone6@2x.png */; };
+		E83DE6281F31C6E40011A3A4 /* guide_1_iphone6p@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE6201F31C6E40011A3A4 /* guide_1_iphone6p@2x.png */; };
+		E83DE6291F31C6E40011A3A4 /* guide_2_iphone4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE6211F31C6E40011A3A4 /* guide_2_iphone4@2x.png */; };
+		E83DE62A1F31C6E40011A3A4 /* guide_2_iphone5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE6221F31C6E40011A3A4 /* guide_2_iphone5@2x.png */; };
+		E83DE62B1F31C6E40011A3A4 /* guide_2_iphone6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE6231F31C6E40011A3A4 /* guide_2_iphone6@2x.png */; };
+		E83DE62C1F31C6E40011A3A4 /* guide_2_iphone6p@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E83DE6241F31C6E40011A3A4 /* guide_2_iphone6p@2x.png */; };
+		E83DE62E1F31C9F90011A3A4 /* OneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83DE62D1F31C9F90011A3A4 /* OneViewController.swift */; };
 		E896A5D11F260164002AB6A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896A5D01F260164002AB6A1 /* AppDelegate.swift */; };
 		E896A5D31F260164002AB6A1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896A5D21F260164002AB6A1 /* ViewController.swift */; };
 		E896A5D61F260164002AB6A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E896A5D41F260164002AB6A1 /* Main.storyboard */; };
 		E896A5D81F260164002AB6A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E896A5D71F260164002AB6A1 /* Assets.xcassets */; };
 		E896A5DB1F260164002AB6A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E896A5D91F260164002AB6A1 /* LaunchScreen.storyboard */; };
+		E896A5F11F287F6B002AB6A1 /* DefineConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896A5F01F287F6B002AB6A1 /* DefineConfig.swift */; };
+		E896A5F51F28AB10002AB6A1 /* JHGuideView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896A5F41F28AB10002AB6A1 /* JHGuideView.swift */; };
+		E896A5F71F298BF2002AB6A1 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E896A5F61F298BF2002AB6A1 /* UIImage+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E83DE61D1F31C6E40011A3A4 /* guide_1_iphone4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_1_iphone4@2x.png"; sourceTree = "<group>"; };
+		E83DE61E1F31C6E40011A3A4 /* guide_1_iphone5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_1_iphone5@2x.png"; sourceTree = "<group>"; };
+		E83DE61F1F31C6E40011A3A4 /* guide_1_iphone6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_1_iphone6@2x.png"; sourceTree = "<group>"; };
+		E83DE6201F31C6E40011A3A4 /* guide_1_iphone6p@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_1_iphone6p@2x.png"; sourceTree = "<group>"; };
+		E83DE6211F31C6E40011A3A4 /* guide_2_iphone4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_2_iphone4@2x.png"; sourceTree = "<group>"; };
+		E83DE6221F31C6E40011A3A4 /* guide_2_iphone5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_2_iphone5@2x.png"; sourceTree = "<group>"; };
+		E83DE6231F31C6E40011A3A4 /* guide_2_iphone6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_2_iphone6@2x.png"; sourceTree = "<group>"; };
+		E83DE6241F31C6E40011A3A4 /* guide_2_iphone6p@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "guide_2_iphone6p@2x.png"; sourceTree = "<group>"; };
+		E83DE62D1F31C9F90011A3A4 /* OneViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OneViewController.swift; sourceTree = "<group>"; };
 		E896A5CD1F260164002AB6A1 /* SwiftGuideMengBanDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftGuideMengBanDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E896A5D01F260164002AB6A1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E896A5D21F260164002AB6A1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +43,9 @@
 		E896A5D71F260164002AB6A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E896A5DA1F260164002AB6A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E896A5DC1F260164002AB6A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E896A5F01F287F6B002AB6A1 /* DefineConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefineConfig.swift; sourceTree = "<group>"; };
+		E896A5F41F28AB10002AB6A1 /* JHGuideView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JHGuideView.swift; sourceTree = "<group>"; };
+		E896A5F61F298BF2002AB6A1 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +59,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E83DE61C1F31C6E40011A3A4 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				E83DE61D1F31C6E40011A3A4 /* guide_1_iphone4@2x.png */,
+				E83DE61E1F31C6E40011A3A4 /* guide_1_iphone5@2x.png */,
+				E83DE61F1F31C6E40011A3A4 /* guide_1_iphone6@2x.png */,
+				E83DE6201F31C6E40011A3A4 /* guide_1_iphone6p@2x.png */,
+				E83DE6211F31C6E40011A3A4 /* guide_2_iphone4@2x.png */,
+				E83DE6221F31C6E40011A3A4 /* guide_2_iphone5@2x.png */,
+				E83DE6231F31C6E40011A3A4 /* guide_2_iphone6@2x.png */,
+				E83DE6241F31C6E40011A3A4 /* guide_2_iphone6p@2x.png */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
 		E896A5C41F260164002AB6A1 = {
 			isa = PBXGroup;
 			children = (
@@ -60,6 +99,11 @@
 				E896A5D71F260164002AB6A1 /* Assets.xcassets */,
 				E896A5D91F260164002AB6A1 /* LaunchScreen.storyboard */,
 				E896A5DC1F260164002AB6A1 /* Info.plist */,
+				E83DE61C1F31C6E40011A3A4 /* resource */,
+				E896A5F41F28AB10002AB6A1 /* JHGuideView.swift */,
+				E896A5F61F298BF2002AB6A1 /* UIImage+Extension.swift */,
+				E896A5F01F287F6B002AB6A1 /* DefineConfig.swift */,
+				E83DE62D1F31C9F90011A3A4 /* OneViewController.swift */,
 			);
 			path = SwiftGuideMengBanDemo;
 			sourceTree = "<group>";
@@ -123,9 +167,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E83DE62A1F31C6E40011A3A4 /* guide_2_iphone5@2x.png in Resources */,
+				E83DE6291F31C6E40011A3A4 /* guide_2_iphone4@2x.png in Resources */,
+				E83DE6261F31C6E40011A3A4 /* guide_1_iphone5@2x.png in Resources */,
 				E896A5DB1F260164002AB6A1 /* LaunchScreen.storyboard in Resources */,
+				E83DE62C1F31C6E40011A3A4 /* guide_2_iphone6p@2x.png in Resources */,
 				E896A5D81F260164002AB6A1 /* Assets.xcassets in Resources */,
 				E896A5D61F260164002AB6A1 /* Main.storyboard in Resources */,
+				E83DE6251F31C6E40011A3A4 /* guide_1_iphone4@2x.png in Resources */,
+				E83DE6271F31C6E40011A3A4 /* guide_1_iphone6@2x.png in Resources */,
+				E83DE62B1F31C6E40011A3A4 /* guide_2_iphone6@2x.png in Resources */,
+				E83DE6281F31C6E40011A3A4 /* guide_1_iphone6p@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +189,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				E896A5D31F260164002AB6A1 /* ViewController.swift in Sources */,
+				E896A5F11F287F6B002AB6A1 /* DefineConfig.swift in Sources */,
+				E896A5F71F298BF2002AB6A1 /* UIImage+Extension.swift in Sources */,
+				E83DE62E1F31C9F90011A3A4 /* OneViewController.swift in Sources */,
 				E896A5D11F260164002AB6A1 /* AppDelegate.swift in Sources */,
+				E896A5F51F28AB10002AB6A1 /* JHGuideView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +355,7 @@
 				E896A5E11F260164002AB6A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
